@@ -8,6 +8,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:475422549908:android:f7bcf402fe162394fbd181",
+        "android_client_info": {
+          "package_name": "com.app.eihlfl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshWfJ7wLR0aU3WXRuLsGP4seYL3WkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:475422549908:android:3818f3e1e2d92e0afbd181",
         "android_client_info": {
           "package_name": "com.example.football_hockey"
