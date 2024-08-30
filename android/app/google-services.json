@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "475422549908",
+    "firebase_url": "https://eihlfl-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eihlfl",
+    "storage_bucket": "eihlfl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475422549908:android:3818f3e1e2d92e0afbd181",
+        "android_client_info": {
+          "package_name": "com.example.football_hockey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshWfJ7wLR0aU3WXRuLsGP4seYL3WkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
